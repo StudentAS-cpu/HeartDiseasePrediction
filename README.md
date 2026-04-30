@@ -1,2 +1,1 @@
-# HeartDiseasePrediction
-predicting heart diseases possibility using ML model
+# Heart-Disease-Prodiction-Model
